@@ -8,11 +8,20 @@
 I'm a Computer Science student at Universitas Pamulang, passionate about backend development and innovative technologies.
 
 ## 🛠 Skills
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: Node.js, Express.js
-- **Databases**: MySQL, MongoDB
-- **Tools**: Git, Docker, Postman
-
+- **Languages**:
+  !JavaScript
+  !Python
+  !Java
+- **Frameworks**:
+  !Node.js
+  !Express.js
+- **Databases**:
+  !MySQL
+  !MongoDB
+- **Tools**:
+  !Git
+  !Docker
+  !Postman
 ## 📈 GitHub Stats
 
 ![Firlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=firlans)
