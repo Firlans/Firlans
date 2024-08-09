@@ -17,6 +17,7 @@ I'm a Computer Science student at Universitas Pamulang, passionate about backend
 </div>
 
 ![Firlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=firlans)
+![!GitHub Streak](https://github-readme-stats.vercel.app/api?username=firlans)
 
 ## 🔗 Connect with Me
 ![LinkedIn](https://linkedin.com/in/firlan-syah)
