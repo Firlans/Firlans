@@ -21,7 +21,7 @@ I'm a Computer Science student at Universitas Pamulang, passionate about backend
 - **Tools**:
   !Git
   !Docker
-  !Postman
+  [!Postman](https://linkedin.com/in/firlan-syah)
 ## 📈 GitHub Stats
 
 ![Firlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=firlans)
