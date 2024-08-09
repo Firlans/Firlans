@@ -13,20 +13,11 @@ I'm a Computer Science student at Universitas Pamulang, passionate about backend
 ![Firlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=firlans)
 
 ## 🔗 Connect with Me
-!LinkedIn
-!Twitter
+![LinkedIn](https://linkedin.com/in/firlan-syah)
 
 ## 📫 How to Reach Me
-- Email: your.email@example.com
-- LinkedIn: yourprofile
-
-## 🌟 Projects
-- **Project 1**: Description of project 1 with link
-- **Project 2**: Description of project 2 with link
-
-## 📝 Blog Posts
-- Post 1
-- Post 2
+- Email: firlansyah54321@gmail.com
+- LinkedIn: (https://linkedin.com/in/firlan-syah)
 
 ## 🎨 Design
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firlans)
@@ -36,8 +27,5 @@ I'm a Computer Science student at Universitas Pamulang, passionate about backend
 - **Achievement 2**: Description of achievement 2
 
 ## 💬 Quote
-_"Your favorite quote here."_
+_"love your pain"_
 
----
-
-Feel free to customize this template to better fit your style and preferences. Semoga profil GitHub kamu semakin menarik dan profesional! 🚀
