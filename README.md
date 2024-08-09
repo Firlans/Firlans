@@ -23,21 +23,23 @@ I'm a Computer Science student at Universitas Pamulang, passionate about backend
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+<div align="center">
+
 ## 📈 GitHub Stats
-
 ![Firlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=firlans)
-![GitHub Streak](https://streak-stats.demolab.com/?user=firlans))
-
-## 🔗 Connect with Me
-![LinkedIn](https://linkedin.com/in/firlan-syah)
-
-## 📫 How to Reach Me
-- Email: firlansyah54321@gmail.com
-- LinkedIn: (https://linkedin.com/in/firlan-syah)
+![GitHub Streak](https://streak-stats.demolab.com/?user=firlans)
 
 ## 🎨 Design
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firlans)
 
-## 💬 Quote
-_"love your pain"_
+</div>
 
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/firlan-syah)
+
+## 📫 How to Reach Me
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:firlansyah54321@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/firlan-syah)
+
+## 💬 Quote
+*"love your pain"*
