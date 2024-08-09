@@ -9,19 +9,20 @@ I'm a Computer Science student at Universitas Pamulang, passionate about backend
 
 ## 🛠 Skills
 - **Languages**:
-  !JavaScript
-  !Python
-  !Java
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 - **Frameworks**:
-  !Node.js
-  !Express.js
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 - **Databases**:
-  !MySQL
-  !MongoDB
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 - **Tools**:
-  !Git
-  !Docker
-  [!Postman](https://linkedin.com/in/firlan-syah)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 ## 📈 GitHub Stats
 
 ![Firlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=firlans)
